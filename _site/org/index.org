@@ -1,3 +1,9 @@
+#+BEGIN_HTML
+---
+layout: org
+title: Jekyll with org-mode and twitter bootstrap
+---
+⁠#+END_HTML
 #+STARTUP: showall
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:t
