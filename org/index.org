@@ -1,0 +1,3 @@
+* Fractopoly -- A self-organizing approach for scaling communities.
+** What is Fractopoly
+
