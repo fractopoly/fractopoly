@@ -1,3 +1,19 @@
+#+BEGIN_HTML
+---
+date: 2016-10-09
+tags: 
+- 
+- 
+- dummy-tags-should-be-replaced
+author: Fractopoly
+layout: post
+title: Fractopoly
+excerpt: some description
+categories: 
+- category0
+- category1
+---
+#+END_HTML
 #+STARTUP: showall
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:t
@@ -13,4 +29,3 @@
 ** What is Fractopoly
    A lot more to come...
 
- 
